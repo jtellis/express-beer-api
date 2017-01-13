@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jtellis/express-beer-api/issues"
   },
-  "homepage": "https://github.com/jtellis/express-beer-api#readme"
+  "homepage": "https://github.com/jtellis/express-beer-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6"
+  }
 }
